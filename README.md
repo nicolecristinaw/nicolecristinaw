@@ -1,5 +1,9 @@
  ## Hi! I'm Nicole ❤️ 
 
+<div align="center">
+  <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/31241d1e-7280-45a7-8d3d-c0abb1cb3fc4" />
+</div>
+
 
                                                                  
 <div style="display: inline_block"><br>
