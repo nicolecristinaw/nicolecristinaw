@@ -6,7 +6,6 @@
   <img width="2000" height="300" alt="Image" src="https://github.com/user-attachments/assets/31241d1e-7280-45a7-8d3d-c0abb1cb3fc4" />
 </div>
 
-
 ##                                                                 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nicole-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,4 +18,14 @@
   
 </div>
 
+
+
  ##
+
+<div align="center">
+  
+  <img height="700" width="500" src="https://github-readme-stats.vercel.app/api?username=nicolecristinaw&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img height="700" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecristinaw&layout=compact&theme=radical" alt="Top Languages" />
+  
+</div>
