@@ -2,9 +2,7 @@
   <strong><h2>Hi! I'm Nicole ❤️</h2></strong>
 </div>
 
-<div align="center">
-  <img width="2000" height="300" alt="Image" src="https://github.com/user-attachments/assets/31241d1e-7280-45a7-8d3d-c0abb1cb3fc4" />
-</div>
+
 
 ##                                                                 
 <div align="center" style="display: inline_block"><br>
