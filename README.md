@@ -1,5 +1,10 @@
 <div align="center">
   <strong><h2>Hi! I'm Nicole ❤️</h2></strong>
+  I’m an Information Systems student at UFSC, passionate about technology and continuous learning.
+I love studying languages, especially English and German, and I’m always looking for ways to improve my skills and challenge myself.
+
+I enjoy building web projects, exploring new tools, and applying what I learn through practical development.
+Here you’ll find some of the projects I’ve been working on, from front-end interfaces to academic assignments that reflect my growth as a developer.
 </div>
 
 
