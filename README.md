@@ -9,9 +9,15 @@
   Here you’ll find some of the projects I’ve been working on, from front-end interfaces to academic assignments that reflect my growth as a developer.
 
 </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolecristinaw">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+ 
 
-
-
+##
                                                                
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nicole-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,13 +34,13 @@
 
 
 
- ##
+ 
 
 
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolecristinaw/nicolecristinaw/output/github-contribution-grid-snake-dark.svg">
 </div>
 
-##
+
 
 
